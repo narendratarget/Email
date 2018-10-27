@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email", "Email\Email.csproj", "{BA857FA3-27D9-4F70-8881-F251671348E3}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Gmail-Xtream", "Gmail-Xtream\Gmail-Xtream.isproj", "{F9787325-6033-4116-AEFA-0A7B4547A383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.CD_ROM|x86.ActiveCfg = Release|x86
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.CD_ROM|x86.Build.0 = Release|x86
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.Debug|x86.ActiveCfg = Debug|x86
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.Debug|x86.Build.0 = Debug|x86
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.DVD-5|x86.ActiveCfg = Debug|x86
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.DVD-5|x86.Build.0 = Debug|x86
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.Release|x86.ActiveCfg = Release|x86
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.Release|x86.Build.0 = Release|x86
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.SingleImage|x86.ActiveCfg = Release|x86
+		{BA857FA3-27D9-4F70-8881-F251671348E3}.SingleImage|x86.Build.0 = Release|x86
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.CD_ROM|x86.Build.0 = CD_ROM
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.Debug|x86.ActiveCfg = DVD-5
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.Debug|x86.Build.0 = DVD-5
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.DVD-5|x86.ActiveCfg = DVD-5
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.DVD-5|x86.Build.0 = DVD-5
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.Release|x86.ActiveCfg = SingleImage
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.Release|x86.Build.0 = SingleImage
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.SingleImage|x86.ActiveCfg = SingleImage
+		{F9787325-6033-4116-AEFA-0A7B4547A383}.SingleImage|x86.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

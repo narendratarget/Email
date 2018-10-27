@@ -1,0 +1,7 @@
+﻿<Emailsetup>
+  <Account>
+    <Email>*</Email>
+    <Password>*</Password>
+    <Hint>*</Hint>
+  </Account>
+</Emailsetup>

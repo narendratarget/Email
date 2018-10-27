@@ -1,0 +1,12 @@
+<Emailsetup>
+  <Account>
+    <Email>*</Email>
+    <Password>sffsfsdfs</Password>
+    <Hint>hint</Hint>
+  </Account>
+  <Account>
+    <Email>narendratarget@gmail.com</Email>
+    <Password>Surbhi@098</Password>
+    <Hint>Surbhi@098</Hint>
+  </Account>
+</Emailsetup>
